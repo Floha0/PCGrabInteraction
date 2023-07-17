@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Grab : MonoBehaviour
 {
-
+    
     [NonSerialized]
     public bool grabbing;
 
